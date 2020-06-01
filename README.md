@@ -10,7 +10,7 @@ Two Efficient way to solve Travel Sales Man Problem (TSP) on Python, we only hav
   `mat = [[  0,   1, 1, 1.5],
        [  1,   0, 1.5, 1],
        [  1, 1.5,   0, 1],
-       [1.5,   1,   1, 0]]  # Distance Matrix‘
+       [1.5,   1,   1, 0]]  # Distance Matrix`
 
   
 # 2. Solve by Gurobipy
