@@ -2,7 +2,7 @@
 
 Two Efficient way to solve Travel Sales Man Problem (TSP) on Python, we only have to Input distance maxtrix to receive optimum.
 
-## 1. [Tsp module] (https://pypi.org/project/tsp/) on PyPI 
+## 1. [Tsp module](https://pypi.org/project/tsp/) on PyPI 
 
   #### step (1) `$ pip install pipy`
   
