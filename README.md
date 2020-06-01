@@ -7,7 +7,8 @@ Two Efficient way to solve Travel Sales Man Problem (TSP) on Python, we only hav
   #### Step (1): `$ pip install pipy`
   
   #### Step (2): open your Python IDE and Paste:
-  ```mat = {your_distance_matrix}
+  ```
+  mat = {your_distance_matrix}
   r = range(len(mat))
   dist = {(i, j): mat[i][j] for i in r for j in r}
   print(tsp.tsp(r, dist))
