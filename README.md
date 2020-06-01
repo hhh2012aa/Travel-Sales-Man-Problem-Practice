@@ -12,6 +12,8 @@ Two Efficient way to solve Travel Sales Man Problem (TSP) on Python, we only hav
   dist = {(i, j): mat[i][j] for i in r for j in r}
   print(tsp.tsp(r, dist))
   ```
+  
+  The total distance and tour will be shown like this `(4, [0, 1, 3, 2])`
 
   
 #＃ 2. Solve by Gurobipy
