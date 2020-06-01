@@ -16,8 +16,8 @@ Two Efficient way to solve Travel Sales Man Problem (TSP) on Python, we only hav
   The total distance and tour will be shown like this `(4, [0, 1, 3, 2])`
 
   
-## 2. Solve by Gurobipy
+## 2. Solve by [Gurobipy]()
 
-  #### step (1): Follow the step on [Gurobi official Site](https://www.gurobi.com/documentation/9.0/quickstart_mac/software_installation_guid.html) to install Gurobi Python module
+  #### step (1): Follow the step on [Gurobi official Site](hhttps://www.gurobi.com/documentation/9.0/quickstart_mac/py_python_interface.html) to install Gurobi Python module
   
   #### step (2): Follow the TSP modeling tutoral from [Gurobi official Site](https://gurobi.github.io/modeling-examples/traveling_salesman/tsp.html) to build your formulation and find the optimun.
